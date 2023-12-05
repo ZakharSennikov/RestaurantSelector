@@ -1,0 +1,4 @@
+C:\Users\senni\source\repos\RestaurantSelector\RestaurantSelector\x64\Debug\RestaurantSelector.vcxproj.AssemblyReference.cache
+C:\Users\senni\source\repos\RestaurantSelector\RestaurantSelector\x64\Debug\RestaurantSelector.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\senni\source\repos\RestaurantSelector\RestaurantSelector\x64\Debug\RestaurantSelector.MyForm.resources
+C:\Users\senni\source\repos\RestaurantSelector\RestaurantSelector\x64\Debug\RestaurantSelector.vcxproj.GenerateResource.cache
